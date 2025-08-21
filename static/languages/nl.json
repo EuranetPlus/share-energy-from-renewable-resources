@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Wat is het aandeel elektriciteit uit hernieuwbare bronnen in de EU?",
+  "subtitle": "In de EU bedraagt het aandeel elektriciteit uit hernieuwbare bronnen in 2024 47%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Gegevens voor Spanje in Q4: voorlopig. Gegevens voor IJsland in november en december 2024 niet beschikbaar.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van de netto-elektriciteitsopwekking",
   "tooltipExtraInfoLabel": "Klik hier"
 }
