@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kāda ir no atjaunojamiem avotiem saražotās elektroenerģijas daļa ES?",
+  "subtitle": "ES elektroenerģijas īpatsvars no atjaunojamiem avotiem 2024. gadā sasniegs 47%.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Spānijas dati 4. ceturksnī: provizoriski. Islandes dati par 2024. gada novembri un decembri nav pieejami.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "no neto saražotās elektroenerģijas",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
