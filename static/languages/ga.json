@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cad é sciar an leictreachais ó fhoinsí in-athnuaite san AE?",
+  "subtitle": "San AE, sroichfidh leictreachas ó fhoinsí in-athnuaite 47% faoi 2024.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Sonraí don Spáinn i R4: sealadach. Níl sonraí ar fáil don Íoslainn i mí na Samhna agus i mí na Nollag 2024.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "de ghiniúint leictreachais ghlan",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
