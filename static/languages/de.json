@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie hoch ist der Anteil des Stroms aus erneuerbaren Energien in der EU?",
+  "subtitle": "In der EU wird der Anteil erneuerbarer Energien am Strom im Jahr 2024 47 % erreichen.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Daten für Spanien im 4. Quartal: vorläufig. Daten für Island im November und Dezember 2024 nicht verfügbar.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "der Nettostromerzeugung",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
