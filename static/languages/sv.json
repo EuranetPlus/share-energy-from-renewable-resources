@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur stor är andelen el från förnybara källor i EU?",
+  "subtitle": "I EU når el från förnybara källor 47 % år 2024.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Data för Spanien under fjärde kvartalet: preliminär. Data för Island i november och december 2024 är inte tillgängliga.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av nettoelproduktionen",
   "tooltipExtraInfoLabel": "Klicka här"
 }
